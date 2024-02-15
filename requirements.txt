@@ -1,0 +1,4 @@
+pandas 
+streamlit 
+streamlit_option_menu 
+rom firebase_admin
